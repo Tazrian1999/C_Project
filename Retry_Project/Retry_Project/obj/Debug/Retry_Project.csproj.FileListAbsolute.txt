@@ -1,0 +1,24 @@
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\bin\Debug\Retry_Project.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\bin\Debug\Retry_Project.exe
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\bin\Debug\Retry_Project.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\obj\Debug\Retry_Project.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\obj\Debug\Retry_Project.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\obj\Debug\Retry_Project.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\obj\Debug\Retry_Project.Registration.resources
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\obj\Debug\Retry_Project.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\obj\Debug\Retry_Project.exe
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\obj\Debug\Retry_Project.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Retry_Project\Retry_Project\obj\Debug\Retry_Project.login.resources
+F:\Retry_Project\Retry_Project\bin\Debug\Retry_Project.exe.config
+F:\Retry_Project\Retry_Project\obj\Debug\Retry_Project.exe
+F:\Retry_Project\Retry_Project\obj\Debug\Retry_Project.pdb
+F:\Retry_Project\Retry_Project\bin\Debug\Retry_Project.exe
+F:\Retry_Project\Retry_Project\bin\Debug\Retry_Project.pdb
+F:\Retry_Project\Retry_Project\obj\Debug\Retry_Project.csprojResolveAssemblyReference.cache
+F:\Retry_Project\Retry_Project\obj\Debug\Retry_Project.Form1.resources
+F:\Retry_Project\Retry_Project\obj\Debug\Retry_Project.Login.resources
+F:\Retry_Project\Retry_Project\obj\Debug\Retry_Project.Properties.Resources.resources
+F:\Retry_Project\Retry_Project\obj\Debug\Retry_Project.Registration.resources
+F:\Retry_Project\Retry_Project\obj\Debug\Retry_Project.csproj.GenerateResource.Cache
+F:\Retry_Project\Retry_Project\obj\Debug\Retry_Project.Dashboard.resources
+F:\Retry_Project\Retry_Project\obj\Debug\Retry_Project.Sell.resources
